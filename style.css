@@ -3,8 +3,6 @@
 
 body {
     background: url("img/portada.png");
-    margin-bottom: 30px;
-    margin-top: 30px;
     background-repeat: no-repeat;
     background-color: #FFFFFF;
     font-style: "Abel", sans-serif;
@@ -58,6 +56,10 @@ p {
 p2 {
     color: cyan ;
 }
+
+.cover{ margin-top:0; }
+    section.intro h1{ max-width: 520px; }
+    section{ max-width: 1400px; }
 
 .card {
     width: 610px;
