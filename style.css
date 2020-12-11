@@ -8,12 +8,12 @@ header#titular {
     background-attachment: scroll;
     background-position: center top;
     background-size: 100% auto;
-    background-image: url("img/portadaS.png");
+    background-image: url("img/portadaL.png");
 }
 
 @media (min-width: 768px) {
     header#titular {
-        background-image: url("img/portadaL.png");
+        background-image: url("img/portadaS.png");
     }
 }
 body {
