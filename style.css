@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap'));
 
 body {
-    background: url("img/0-intro2.png");
+    background: url("img/portada.png");
     background-repeat: no-repeat; 
     .cover{ margin-top:0; }
     background-color: #FFFFFF;
