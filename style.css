@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap'));
 
 body {
-    background-imgage: img/'portada.png'; 
+    background: url("img/0-intro2.png");
+    background-repeat: no-repeat; 
     .cover{ margin-top:0; }
     background-color: #FFFFFF;
     font-style: "Abel", sans-serif;
