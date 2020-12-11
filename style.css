@@ -10,45 +10,45 @@ body {
 }
 
 h1 {
-    font-family: "Abel";
+    font-family: "Josefin Sans", sans-serif;
     color: #0f1d4d;
     font-weight: 700;
 }
 
 h2 {
-    font-family: "Abel";
+    font-family: "Josefin Sans", sans-serif;
     color: #0f1d4d;
     font-weight: 400;
 }
 
 h3 {
     text-align: left;
-    font-family: "Abel";
+    font-family: "Josefin Sans", sans-serif;
     color: #0f1d4d;
     font-weight: 700;
 }
 
 h4 {
-    font-family: "Abel";
+    font-family: "Josefin Sans", sans-serif;
     color: #0f1d4d;
     font-weight: 900;
     margin-top: 420px;
 }
 
 h5 {
-    font-family: "Abel";
+    font-family: "Josefin Sans", sans-serif;
     color: #0f1d4d;
     font-weight: 700;
 }
 
 p {
-    font-family: "Josefin Sans";
+    font-family: "Abel", sans-serif";
     color: #0f1d4d;
     font-weight: 400;
 }
 
 p2 {
-    color: white;
+    color: blue ;
 }
 
 .card {
