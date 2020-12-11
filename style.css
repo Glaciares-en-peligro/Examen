@@ -3,7 +3,7 @@
 
 body {
     background: url("img/portada.png");
-    position: 'centered';
+    position: absolute ;
     background-repeat: no-repeat;
     background-color: #FFFFFF;
     font-style: "Abel", sans-serif;
@@ -63,7 +63,7 @@ p2 {
     height: -10;
     margin-bottom: 30px;
     margin-top: 30px;
-    background-color: #dccbc1;
+    background-color: #76D8EC;
     border: hidden;
     position: relative;
     display: inline-block;
