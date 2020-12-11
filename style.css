@@ -4,7 +4,7 @@
 body {
     background: url("img/portada.png");
     background-repeat: no-repeat; 
-    .cover{ margin-top:0; }
+    .cover{ margin-top:center; }
     background-color: #FFFFFF;
     font-style: "Abel", sans-serif;
     font-weight: 400;
