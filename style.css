@@ -3,6 +3,7 @@
 
 body {
     background: url("img/portada.png");
+    position: 'centered';
     background-repeat: no-repeat;
     background-color: #FFFFFF;
     font-style: "Abel", sans-serif;
