@@ -80,12 +80,12 @@ h5.card-title a:hover {
 }
 footer {
     background-color: #0f1d4d;
-    color: black;
+    color: white;
     font-size: 80%;
 }
 
 footer a {
-    color: black;
+    color: white;
 }
 
 footer a:hover {
